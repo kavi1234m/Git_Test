@@ -1,4 +1,6 @@
 #include "stdio.h"
 int main{
-	printf("hello");
+	int a;
+	int b;
+	printf("GIT_TEST\n");
 }
