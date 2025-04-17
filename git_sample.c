@@ -2,5 +2,4 @@
 int main{
 	int a;
 	int b;
-	printf("GIT_TEST\n");
 }
